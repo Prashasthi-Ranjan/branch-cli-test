@@ -1,0 +1,3 @@
+# scratch02_synthetic__task-a1b2c3d4a1b2c3d4a1b2c3d4a1b2c3d4a1b2c3d4a1b2c3d4
+
+Scratch task for verifying the branch CLI.
